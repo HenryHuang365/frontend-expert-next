@@ -44,11 +44,6 @@ export default function GlobalOverview() {
       </p>
 
       {/* Call-to-Action */}
-      <p className="text-lg text-left leading-relaxed animate-fade-in">
-        For questions involving external APIs, I’ve explored free alternatives
-        to implement the solutions. If you encounter any issues, feel free to
-        check the browser console or network tab for more details.
-      </p>
       <p className="justify-start text-lg text-left leading-relaxed animate-fade-in">
         Try{' '}
         <a
